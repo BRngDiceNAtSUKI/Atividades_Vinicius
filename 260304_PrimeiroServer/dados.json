@@ -1,0 +1,23 @@
+[
+    {
+        "id": "001",
+        "dado1": "Descrição 1 do ID 001",
+        "dado2": "Descrição 2 do ID 001",
+        "dado3": "Descrição 3 do ID 001",
+        "dado4": "Descrição 4 do ID 001"
+    },
+    {
+        "id": "002",
+        "dado1": "Descrição 1 do ID 002",
+        "dado2": "Descrição 2 do ID 002",
+        "dado3": "Descrição 3 do ID 002",
+        "dado4": "Descrição 4 do ID 002"
+    },
+    {
+        "id": "003",
+        "dado1": "Descrição 1 do ID 003",
+        "dado2": "Descrição 2 do ID 003",
+        "dado3": "Descrição 3 do ID 003",
+        "dado4": "Descrição 4 do ID 003"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Joao da Silva",
+        "idade": "32",
+        "altura": "1.82",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Maria da Silva",
+        "idade": "40",
+        "altura": "1.55",
+        "pais": "Japão"
+    },
+    {
+        "nome": "Oshiro Makaza",
+        "idade": "22",
+        "altura": "1.78",
+        "pais": "Alemanha"
+    }
+]
